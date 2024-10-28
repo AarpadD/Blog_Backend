@@ -1,5 +1,6 @@
 This project is a simple backend system for a blogging website built with FastAPI, MongoDB, and PyMongo. It provides RESTful APIs in order to help users manage their blog posts efficiently.
 
+
 Features:
 - Create new blog: allows users to add new blog posts.
 - Update blog: users can modify existing blog posts.
