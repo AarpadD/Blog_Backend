@@ -7,7 +7,7 @@ Features:
 - Delete blog: remove blog posts from the database.
 
 
-Tech Stach:
+Tech Stack:
 - FastAPI: A modern web framework for building APIs with Python 3.6+.
 - MongoDB: A NoSQL database for storing blog post data.
 - PyMongo: A Python distribution containing tools for working with MongoDB.
